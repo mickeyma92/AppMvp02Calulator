@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMvp02 Calulator</string>
+    <string name="number">0</string>
+    <string name="errorNumber">Es necesario un número</string>
+    <string name="errorOperation">Error indefinido</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multiplicacion">*</string>
+    <string name="division">/</string>
+
+</resources>
